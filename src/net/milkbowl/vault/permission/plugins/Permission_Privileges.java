@@ -35,7 +35,7 @@ public class Permission_Privileges extends Permission {
     }
 
     public class PermissionServerListener implements Listener {
-        Permission_Privileges permission = null;
+        Permission_Privileges permission  ;
 
         public PermissionServerListener(Permission_Privileges permission) {
             this.permission = permission;
