@@ -19,3 +19,4 @@ deploy:
 cache:
   directories:
   - $HOME/.m2
+//build jdk 21
